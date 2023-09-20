@@ -1,0 +1,54 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+.paragraph {
+    color: gray;
+    font-size: 21px;
+    text-align: center;
+}
+
+.right {
+    color: gray;
+    font-size: 21px;
+    text-align: right;
+}
+
+p, a {
+    color:aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+  .icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 10%;
+  }
